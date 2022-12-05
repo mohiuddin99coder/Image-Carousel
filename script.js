@@ -50,4 +50,4 @@ changeImg.addEventListener('click', () => {
   displayImg()
 })
 
-// displayImg()
+displayImg()
